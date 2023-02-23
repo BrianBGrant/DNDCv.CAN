@@ -2,17 +2,17 @@
 This is our development version of DNDCv.CAN. The model is under ongoing development. Please report issues.
 theme: minima
 
-<h1 align="center"><project-name></h1>
+<h1 align="center"><DNDCv.CAN></h1>
 
-<p align="center"><project-description></p>
+<p align="center"><Canada DNDC Agroecosystem Model></p>
 
 ## Links
 
-- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/BrianBGrant/DNDCv.CAN/<project-name> "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
-- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
+- [Bugs](https://github.com/BrianBGrant/DNDCv.CAN/<project-name>/issues "Issues Page")
 
 - [API](<API Link> "API")
 
