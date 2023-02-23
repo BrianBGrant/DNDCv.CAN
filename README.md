@@ -2,9 +2,9 @@
 This is our development version of DNDCv.CAN. The model is under ongoing development. Please report issues.
 theme: minima
 
-<h1 align="center"><DNDCvCAN></h1>
+<h1 align="center"><project-name></h1>
 
-<p align="center"><Canada DNDC Agroecosystem Model></p>
+<p align="center"><project-description></p>
 
 ## Links
 
