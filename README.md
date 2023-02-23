@@ -8,11 +8,11 @@ theme: minima
 
 ## Links
 
-- [Repo](https://github.com/BrianBGrant/DNDCv.CAN/<project-name> "<project-name> Repo")
+- [Repo](https://github.com/Rohit19060/<project-name> "<project-name> Repo")
 
 - [Live](<Homepage url> "Live View")
 
-- [Bugs](https://github.com/BrianBGrant/DNDCv.CAN/<project-name>/issues "Issues Page")
+- [Bugs](https://github.com/Rohit19060/<project-name>/issues "Issues Page")
 
 - [API](<API Link> "API")
 
