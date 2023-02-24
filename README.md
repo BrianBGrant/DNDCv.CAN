@@ -22,10 +22,11 @@ Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 ## DNDCv.CAN MODEL USER GUIDE
 <a href="https://github.com/BrianBGrant/DNDCv.CAN/blob/master/DNDCvCAN%20User%20Guide.pdf">DNDC.vCAN userGuide</a> 
 
-## DNDCv.CAN RESEARCHNET
+## Brian Grant RESEARCHNET
  <a href="https://www.researchgate.net/profile/Brian-Grant-2">Research Gate Profile - Brian Grant</a> 
 
-
+## Brian Grant Agriculture and Agri-Food Canada Federal Profile - Brian Grant
+https://profils-profiles.science.gc.ca/en/profile/brian-b-grant
 
 
 ## Recent Publications with DNDC v.CAN
