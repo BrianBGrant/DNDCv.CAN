@@ -16,7 +16,8 @@ Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 ## Development Blog
  <a href="https://brianbgrant.github.io/DNDCv.CAN">DNDCv.CAN Development Blog</a> 
 
-
+## DNDCv.CAN MODEL Download
+ <a href="https://github.com/BrianBGrant/DNDCv.CAN/blob/master/DNDCvCAN_Release.zip">Download DNDCv.CAN</a> 
 
 
 
