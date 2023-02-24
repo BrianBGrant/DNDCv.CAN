@@ -28,7 +28,7 @@ Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 
 
 
-Recent Publications with DNDC v.CAN from our team.
+## Recent Publications with DNDC v.CAN
 
 1.	Jiang et al. 2021. Assessing the impacts of diversified crop rotation systems on yields and nitrous oxide emissions in Canada using the DNDC model. Science of the Total Environment. 759:143433  
 2.	Jing et al. 2021. Assessing water management effects on spring wheat yield in the Canadian Prairies using DSSAT wheat models. Agricultural Water Management. 244: 106591.
