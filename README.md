@@ -13,11 +13,17 @@ A separate windows-based command line version of DNDCv.CAN is now also available
 
 Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 
-## Development Blog
+## DNDC v.CAN Development Blog
  <a href="https://brianbgrant.github.io/DNDCv.CAN">DNDCv.CAN Development Blog</a> 
 
 ## DNDCv.CAN MODEL Download
  <a href="https://github.com/BrianBGrant/DNDCv.CAN/blob/master/DNDCvCAN_Release.zip">Download DNDCv.CAN</a> 
+
+## DNDCv.CAN MODEL USER GUIDE
+<a href="https://github.com/BrianBGrant/DNDCv.CAN/blob/master/DNDCvCAN%20User%20Guide.pdf">DNDC.vCAN userGuide</a> 
+
+## DNDCv.CAN RESEARCHNET
+ <a href="https://www.researchgate.net/profile/Brian-Grant-2">Research Gate Profile - Brian Grant</a> 
 
 
 
