@@ -14,7 +14,8 @@ A separate windows-based command line version of DNDCv.CAN is now also available
 Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 
 ## Development Blog
-![Development Blog](https://brianbgrant.github.io/DNDCv.CAN/ "Development Blog")
+ <a href="https://brianbgrant.github.io/DNDCv.CAN">DNDCv.CAN Development Blog</a> 
+
 
 
 
