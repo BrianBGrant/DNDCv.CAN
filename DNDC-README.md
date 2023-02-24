@@ -5,7 +5,7 @@ under Regrow (https://www.regrow.ag/)
 DNDCv.CAN was originally developed of the DNDC95 codebase dated August 2015 and has since developed into it's own version. This development is being managed by 
 Brian Grant and Ward Smith from Agriculture and Agri-Food Canada
 
-Please note that the source code can be obtained by emailed either Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
+Please note that the source code for DNDCv.CAN is shared only with direct colloborators on research projects. If you require DNDC source code for the development of tools specific to your own requirements please contact Bill Salas at Regrow.
 
 A user guide for both the original DNDC version as well as the new additions to DNDCv.CAN are available here. 
 
@@ -13,6 +13,8 @@ A separate windows-based command line version of DNDCv.CAN is now also available
 
 Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 
+## Development Blog
+![Development Blog](https://brianbgrant.github.io/DNDCv.CAN/ "Development Blog")
 
 
 
