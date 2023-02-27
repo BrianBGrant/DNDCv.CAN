@@ -31,6 +31,24 @@ https://profils-profiles.science.gc.ca/en/profile/brian-b-grant
 ## Agriculture and Agri-Food Canada Federal Profile - Ward Smith
 https://profils-profiles.science.gc.ca/en/profile/ward-smith-phd
 
+## Current Development Collaborations
+<p><b>University of Guelph</b></p>
+<a href="https://ses.uoguelph.ca/people/claudia-wagner-riddle">Dr. C. Wagner-Riddle</a> <br>
+<a href="https://www.plant.uoguelph.ca/nasielsk">Dr. J. Nasielsk</a> <br><p></p>
+
+<p>Professional Staff/Students @ Guelph </p>
+<a href="https://kr.linkedin.com/in/jongwon-kang-1413431b7/en?trk=people-guest_people_search-card">Jongwon Kang</a> <br>
+<a href="https://ses.uoguelph.ca/people/azeem-tariq">Azeem Tariq</a> <br><p></p>
+
+<p><b>McGill University</b></p>
+<a href="https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/zhiming-qi">Dr. Z. Qi</a> <br><p></p>
+<p>Professional Staff/Students @ McGill </p>
+<a href="https://ca.linkedin.com/in/chih-yuhung?trk=public_profile_samename-profile">Dr. C. Hung</a> <br>
+<a href="https://www.water-environment.lab.mcgill.ca/02People/people.html">Birk Li</a> <br><p></p>
+
+<p><b>University of Manitoba</b></p>
+<a href="https://umanitoba.ca/agricultural-food-sciences/soil-science/mario-tenuta">Dr. Mario Tenuta</a> <br><p></p>
+
 ## Recent Publications with DNDC v.CAN
 
 1.	Jiang et al. 2021. Assessing the impacts of diversified crop rotation systems on yields and nitrous oxide emissions in Canada using the DNDC model. Science of the Total Environment. 759:143433  
