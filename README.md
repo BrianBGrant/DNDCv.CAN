@@ -28,6 +28,8 @@ Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 ## Agriculture and Agri-Food Canada Federal Profile - Brian Grant
 https://profils-profiles.science.gc.ca/en/profile/brian-b-grant
 
+## Agriculture and Agri-Food Canada Federal Profile - Ward Smith
+https://profils-profiles.science.gc.ca/en/profile/ward-smith-phd
 
 ## Recent Publications with DNDC v.CAN
 
