@@ -1,0 +1,21 @@
+================================Canada DNDC ==========================
+Version 9.5.6 - Sept 2023
+
+Adjustments
+- urea movement removed from water flux code. Urea diffusion can still occur due to physical processes.
+- the DND file has 4 new additions (Crop section - Root Respiration: Maintenance and new growth, AboveGround Respiration:Maintenance and New Growth, Extra Parameters Section: Dynamic Layer Depth), Preferential Flow capabilities: Can be turned on/off and senstivity of soil cracking/retreat can be defined)
+- Soybean pod fraction added during reproductive phase 
+
+
+Known issues not addressed
+
+- Inhibitor products are globally active during their parameterized timing. (i.e. if multiple fertilizer events span the same timing and some contain enhanced fertilizer efficiency products and others do not, all fertilizer products have enhanced efficiency products applied to them.
+- Dynamic Layer Depth can break the simulation if set too small a height. Normally the limit is set to 1cm but if a dnd file does not have the appropriate input lines characterized it can be automatically set to a lower value.
+
+
+Future Fixes
+
+- Inhibitor products will be independently applied based on fertilizer events instead of just having just a global activation time.
+- AG and BG respiration CO2 rates for plant components will be better characterized internally and removed from the dnd input structure
+- Improved parameterization for Crop Growth phenological stages.
+
