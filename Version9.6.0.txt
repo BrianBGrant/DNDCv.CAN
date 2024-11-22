@@ -1,4 +1,17 @@
 ================================Canada DNDC ==========================
+Version 9.6.0
+
+Added a New Manure C pool for handling biosolid C additions
+Improvements to pH sensitivity in NH4:NH3 equilibrium
+Improvements in RUE sensitivity for crop growth
+Improved soil temperature sensitivity on C decomposition
+Improved Inversion Tillage conceptualization
+Improved winter spring burst N2O relationship
+Added frostkill sensitivity for cover crops 47
+
+
+
+
 Version 9.5.6 - Sept 2023
 
 Adjustments
