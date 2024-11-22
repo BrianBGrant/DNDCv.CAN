@@ -13,7 +13,7 @@ A separate windows-based command line version of DNDCv.CAN is now also available
 
 Please send any inquiries to Brian.Grant@agr.gc.ca or Ward.Smith@agr.gc.ca
 
-## DNDC v.CAN Development Blog
+## DNDC v.CAN Development Blog - Updated Nov 2024
  <a href="https://brianbgrant.github.io/DNDCv.CAN">DNDCv.CAN Development Blog</a> 
 
 ## DNDCv.CAN MODEL Download
